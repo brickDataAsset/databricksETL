@@ -1,26 +1,29 @@
-# databricksETL
-# Project: Extract, transform, and load data by using Azure Databricks and Azure Synapse Analytics
-#Guided by: Microsoft Learn
+## databricksETL
+### Project: Extract, transform, and load data by using Azure Databricks and Azure Synapse Analytics
 
-Steps to follow for the project:
+#### Tools used: Azure Databricks, Azure Data Lake Storage Gen2, Synapse Analytics, PySpark.
 
-#Step 1: Gathering required information
-#✔️ The database name, database server name, user name, and password of Azure Synapse.
+Guided by: Microsoft Learn
 
-#✔️ The access key of blob storage account.
+#### Steps to follow for the project:
 
-#✔️ The name of Data Lake Storage Gen2 storage account.
+Step 1: Gathering required information
+✔️ The database name, database server name, user name, and password of Azure Synapse.
 
-#✔️ The tenant ID of subscription.
+✔️ The access key of blob storage account.
 
-#✔️ The application ID of the app registered with Azure Active Directory (Azure AD).
+✔️ The name of Data Lake Storage Gen2 storage account.
 
-#✔️ The authentication key for the app registered with Azure AD.
+✔️ The tenant ID of subscription.
 
-#step 2: Creating an Azure Synapse Analytics workspace.
+✔️ The application ID of the app registered with Azure Active Directory (Azure AD).
 
-#Step 3: Creating an Azure Databricks service.
+✔️ The authentication key for the app registered with Azure AD.
 
-#Step 4: Creating a PySpark cluster in Azure Databricks.
+step 2: Creating an Azure Synapse Analytics workspace.
 
-#Step 5: Running ETL operations on Databricks notebook and loading transformed data into a table in Azure Synapse Analytics programmatically.
+Step 3: Creating an Azure Databricks service.
+
+Step 4: Creating a PySpark cluster in Azure Databricks.
+
+Step 5: Running ETL operations on Databricks notebook and loading transformed data into a table in Azure Synapse Analytics programmatically.
